@@ -1,0 +1,1 @@
+# 1.怎么去修改‘Django administration’ 文字? 
