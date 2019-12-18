@@ -8,11 +8,9 @@ Welcome to Django-Admin-Cookbook-CN's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    Introduction
-   
-   how_to_change_Djano_administration_text
+   HowToChangeDjagnoAdministrationText
 
 
 Indices and tables
