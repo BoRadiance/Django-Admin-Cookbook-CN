@@ -10,14 +10,14 @@ Django admin 默认就是显示 'Django administration' . 你被要求使用‘U
 
 ## 1.1. 登录，列表，变更视图
 默认情况下，它会像这样，并且设置成‘Django administration'
-![image](https://raw.githubusercontent.com/BoRadiance/Django-Admin-Cookbook-CN/master/source/img/2019-12-18_230055.png)
+![](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/_images/default_login.png)
 
 `site_header` 可以设置并修改它
 
 
 ## 1.2. 列表视图
 默认情况下，它会像这样，并且设置成‘Site administration'
-![image](https://github.com/BoRadiance/Django-Admin-Cookbook-CN/blob/master/source/img/2019-12-18_230125.png)
+![](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/_images/default_listview.png)
 
 
 
@@ -26,7 +26,8 @@ Django admin 默认就是显示 'Django administration' . 你被要求使用‘U
 
 ## 1.3.HTML标题标签
 默认情况下，它会像这样，并且设置成‘Django site admin'
-![image](https://github.com/BoRadiance/Django-Admin-Cookbook-CN/blob/master/source/img/2019-12-18_230136.png)
+
+![](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/_images/default_title.png)
 
 
 
