@@ -11,6 +11,8 @@ Welcome to Django-Admin-Cookbook-CN's documentation!
    :caption: Contents:
 
    Introduction
+   
+   how_to_change_Djano_administration_text
 
 
 Indices and tables
