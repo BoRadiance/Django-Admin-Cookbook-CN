@@ -11,6 +11,8 @@ Welcome to Django-Admin-Cookbook-CN's documentation!
 
    Introduction
    HowToChangeDjagnoAdministrationText
+   how_to_set_the_plural_text_for_a_model
+   how_to_create_two_independent_admin_sites
 
 
 Indices and tables
