@@ -31,3 +31,4 @@ urlpatterns = [
 ]
 ```
 这样就实现了分隔admin,2个管理都在各自的url下可以使用 `/entity-admin/` 和 	`event-admin/`
+

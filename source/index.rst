@@ -13,6 +13,8 @@ Welcome to Django-Admin-Cookbook-CN's documentation!
    HowToChangeDjagnoAdministrationText
    how_to_set_the_plural_text_for_a_model
    how_to_create_two_independent_admin_sites
+   how_to_remove_default_apps_from_django_admin
+   how_to_add_a_log_to_django_admin
 
 
 Indices and tables
