@@ -2,13 +2,11 @@
 ## 译者的话
 身为PythonWeb开发热爱者
 
-希望能对开源社区做出一些贡献，尽量抽出时间，尽早完成翻译。
+希望能对开源社区做出一些贡献。
 
-想一起的小伙伴可以联系我。QQ: 189219902
+本人能力有限，难免有疏漏或者表意不当的地方。 如果译文中有什么错漏的地方请大家见谅，也欢迎大家随时指正。QQ: 189219902
 
-本人能力有限，难免有疏漏或者表意不当的地方。 如果译文中有什么错漏的地方请大家见谅，也欢迎大家随时指正。
-
-[英文原文Django Admin Cookbook](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/introduction.html)
+[中文翻译](https://django-admin-cookbook-cn.readthedocs.io/en/latest/)
 
 ## Django Admin Cookbook介绍
 
@@ -139,3 +137,7 @@ class EventVillain(models.Model):
 你可以把这本书从头读到尾，也可以选择你需要的章节读，每一个章节是独立的，特定的任务
 
 无论如何，你都应该先读`entities/models.py` 和 `events/models.py`
+
+
+
+[英文原文Django Admin Cookbook](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/introduction.html)

@@ -9,4 +9,4 @@ def has_delete_permission(self, request, obj=None):
 ```
 通过这些修改，你的admin就像这样：
 ![](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/_images/remove_add_perms.png)
-注意移除*Add*按钮，这个添加和删除按钮也会从详情页面中删除，你还可以阅读[如何从Django Admin中移除删除action]()
+注意移除*Add*按钮，这个添加和删除按钮也会从详情页面中删除，你还可以阅读[如何从Django Admin中移除删除action](https://django-admin-cookbook-cn.readthedocs.io/en/latest/how_to_remove_delete_selected_action.html)

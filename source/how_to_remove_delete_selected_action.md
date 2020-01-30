@@ -12,5 +12,5 @@ def get_actions(self, request):
 你的admin页面像这样：
 ![](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/_images/export_selected.png)
 
-你应该也读一下[如何为一个model移除‘添加’/‘删除’按钮]()
+你应该也读一下[如何为一个model移除‘添加’/‘删除’按钮](https://django-admin-cookbook-cn.readthedocs.io/en/latest/how_to_remove_the_add_delete_button_for_a_model.html)
 
