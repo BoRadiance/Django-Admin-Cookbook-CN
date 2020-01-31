@@ -1,4 +1,4 @@
-# 怎么为一个模型设置复数文字
+# 2.怎么为一个模型设置复数文字
 默认情况下，admin给你的模型末尾加上‘s’ ,  又称做你模型的复数形式，像这个样子：
 ![](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/_images/plural.png)
 
